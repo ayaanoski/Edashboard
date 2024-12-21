@@ -2,7 +2,7 @@ import React from 'react'
 
 const SparkLine = () => {
   return (
-    <div>ok</div>
+    <div>SparkLine</div>
   )
 }
 
